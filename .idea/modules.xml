@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/filedialog/filedialog.iml" filepath="$PROJECT_DIR$/filedialog/filedialog.iml" group="media/filedialog" />
+      <module fileurl="file://$PROJECT_DIR$/media.iml" filepath="$PROJECT_DIR$/media.iml" group="media" />
+    </modules>
+  </component>
+</project>

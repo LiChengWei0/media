@@ -1,0 +1,5 @@
+/build
+
+# Project exclude paths
+/filedialog/build/
+/filedialog/build/intermediates/javac/debug/classes/
